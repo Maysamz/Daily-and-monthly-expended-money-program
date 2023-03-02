@@ -8,4 +8,4 @@ places.Our app allows users to view their current balance and date and to search
 their previous transactions by type,category and period.Also,the users are able to make a new
 transaction and specify the source and the type of it.”Money Flow” will help the users to
 gain control of their finances so if they are trying to pay with an amount that exceeds their
-balances, the transaction would be rejected and and they will be notify with an error messag
+balances, the transaction would be rejected and and they will be notify with an error message.
